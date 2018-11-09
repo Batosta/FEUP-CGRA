@@ -1,1 +1,1 @@
-# FEUP-CGRA
+Repository for CGRA practical classes and projects
